@@ -33,7 +33,7 @@ Project A is the first data science projects you'll be doing this semester. It i
     - You'll find information on [required Study 2 analyses](study2a.qmd)
     - We also provide detailed [Study 2 report specifications](study2b.qmd)
 <!--     - You'll also find a [Study 2 example report](study2c.qmd) -->
-- [Self-Evaluation Form](self_eval.qmd) for Project A 
+<!-- - [Self-Evaluation Form](self_eval.qmd) for Project A -->
 <!--    - If you work with a partner, each of you submits this form separately. -->
 <!-- - A [Checklist](checklist.qmd) of the tasks that need to be accomplished for Project A, which also includes some details on the oral presentation you'll give to Dr. Love in December. -->
 <!-- - A [Tip Sheet](tipsheet.qmd) of about 20 things that have come up in the past that are worth your attention as you prepare your final materials for presentation and submission. -->
@@ -47,9 +47,9 @@ Project A is the first data science projects you'll be doing this semester. It i
 2. You (and your partner, if applicable) will present your project to Dr. Love in his office. Details on the Oral Presentation are found in the [Checklist](checklist.qmd) menu above. Presentations will be scheduled on December 6-11 using the [Registration Form](register.qmd). 
 3. You will build two Quarto and HTML reports (separate reports for [Study 1](study1a.qmd) and [Study 2](study2a.qmd)) by the Project B Portfolio deadline in the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html).
     - If you're not using NHANES data, you'll also submit your data to Dr. Love at that time. -->
-- For the website submission, email the link to Dr. Zhang at lxz716@case.edu and cc TAs Monika Strah (mxs1667@case.edu) and Anika Krishna (awo14@case.edu). Use the subject line "My 431 Website" and ensure you meet the deadline 12:00PM 09/19/2025. In the email body, briefly explain how you created the site (e.g., Quarto or another tool).
-- For the dashboard and blog submission, please submit the quarto files, html files and any related data to Canvas by the deadline 09:00PM 09/29/2025. I will also review the dashboard and blog as they appear on your website.
-- You will complete a [Self-Evaluation form](https://forms.gle/crRkBrvXkaQQxPPc6), by the Project A Portfolio deadline in the Course Calendar.
+- For the website submission, email the link to Dr. Zhang at lxz716@case.edu and cc TAs Monika Strah (mxs1667@case.edu) and Anika Krishna (awo14@case.edu). Use the subject line "My 431 Website" and ensure you meet the deadline 12:00PM 09/18/2025. In the email body, briefly explain how you created the site (e.g., Quarto or another tool).
+- For the dashboard and blog submission, please submit the quarto files, html files and any related data to Canvas by the deadline 09:00PM 09/28/2025. I will also review the dashboard and blog as they appear on your website.
+- You will complete a [Self-Evaluation form](https://forms.gle/ZCUHqCbADNzMjYN97), by the Project A Portfolio deadline in the Course Calendar.
 
 <!-- # Partnerships?
 
@@ -85,7 +85,7 @@ Project A will be graded by Dr. Zhang on a scale from 0-100 points.
 
 - On-time successful completion of the [website](task1.qmd) is worth 45 points.
 - The completion of [dashboard and blog](task2.qmd) are worth a combined 45 points.
-- The completion of a [Self-Evaluation form](https://forms.gle/crRkBrvXkaQQxPPc6) are worth 10 points.
+- The completion of a [Self-Evaluation form](https://forms.gle/ZCUHqCbADNzMjYN97) are worth 10 points.
 - Late work on Project A is unacceptable. All deadlines are in the Course Calendar.
 
 Dr. Zhang will provide **no written feedback** on your Project A work. The grading timeline is simply too tight on my end. I apologize in advance.

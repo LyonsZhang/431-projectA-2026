@@ -47,7 +47,7 @@ Project A is the first data science projects you'll be doing this semester. It i
 2. You (and your partner, if applicable) will present your project to Dr. Love in his office. Details on the Oral Presentation are found in the [Checklist](checklist.qmd) menu above. Presentations will be scheduled on December 6-11 using the [Registration Form](register.qmd). 
 3. You will build two Quarto and HTML reports (separate reports for [Study 1](study1a.qmd) and [Study 2](study2a.qmd)) by the Project B Portfolio deadline in the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html).
     - If you're not using NHANES data, you'll also submit your data to Dr. Love at that time. -->
-- For the website submission, email the link to Dr. Zhang at lxz716@case.edu and cc TAs Monika Strah (mxs1667@case.edu) and Anika Krishna (awo14@case.edu). Use the subject line "My 431 Website" and ensure you meet the deadline 12:00PM 09/18/2025. In the email body, briefly explain how you created the site (e.g., Quarto or another tool).
+- For the website submission, email the link to Dr. Zhang at lxz716@case.edu and cc TAs Kathryn Menta	(kkm83@case.edu) and Marie Masotya (msm191@case.edu). Use the subject line "My 431 Website" and ensure you meet the deadline 12:00PM 09/18/2025. In the email body, briefly explain how you created the site (e.g., Quarto or another tool).
 - For the dashboard and blog submission, please submit the quarto files, html files and any related data to Canvas by the deadline 09:00PM 09/28/2025. I will also review the dashboard and blog as they appear on your website.
 - You will complete a [Self-Evaluation form](https://forms.gle/ZCUHqCbADNzMjYN97), by the Project A Portfolio deadline in the Course Calendar.
 

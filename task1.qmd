@@ -46,7 +46,7 @@ contents.
 
 # Submitting your Website
 
-Submit a link to your website to Dr. Zhang (lxz716@case.edu) and cc'ed TAs 	Monika Strah (mxs1667@case.edu) and Alex Olejko (awo14@case.edu) in an email with the subject
+Submit a link to your website to Dr. Zhang (lxz716@case.edu) and cc'ed TAs TAs Kathryn Menta	(kkm83@case.edu) and Marie Masotya (msm191@case.edu) in an email with the subject
 line **My Website** by the deadline specified in the Course
 Calendar. In the body of your email, briefly tell me how you created the site (Quarto, or something else.)
 

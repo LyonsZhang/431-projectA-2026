@@ -6,7 +6,7 @@ date: last-modified
 
 # What is Project A?
 
-Project A is the first data science projects you'll be doing this semester. It involves the completion of two tasks, which you’ll start working on 09-04-2025.
+Project A is the first data science projects you'll be doing this semester. It involves the completion of two tasks, which you’ll start working on 09-03-2026.
 
 1. You will each build a quarto website, create a dashboard and a blog and add them to your website.
 2. In the dashboard, showcase the statistical analyses you applied to the data to address your hypothesis questions.
@@ -92,4 +92,4 @@ Dr. Zhang will provide **no written feedback** on your Project A work. The gradi
 
 # Questions?
 
-If you have questions, let us know about them on Campuswire using the **projectB** folder, or speak with Dr. Zhang before or after class, or discuss them with the TAs during office hours.
+If you have questions, let us know about them on Campuswire using the **projectA** folder, or speak with Dr. Zhang before or after class, or discuss them with the TAs during office hours.
